@@ -34,7 +34,7 @@ Compare:
 
 * Simulation-first
 * Reinforcement learning
-* Keep it simple → iterate fast
+* Keep it simple to iterate fast
 
 ---
 
