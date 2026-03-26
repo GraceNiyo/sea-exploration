@@ -1,9 +1,9 @@
 # sea-exploration
 
-As I write my thesis dissertation over the next two months, this repository acts as an experimental buffer—a place to test ideas in a simplified and modular setting.
+As I write my thesis dissertation over the next two months, this repository acts as an experimental buffer, a place to test ideas in a simplified and modular setting.
 
 One question I keep coming back to is:
-**Can actuator-state feedback provide sufficient information for learning manipulation tasks, compared to or alongside traditional tactile sensing?**
+**Whether actuator-state feedback provide sufficient information for learning manipulation tasks, compared to or alongside traditional tactile sensing?** Maybe the answer is already out there, but I will try to answer it here. 
 
 ---
 
